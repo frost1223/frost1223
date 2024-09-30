@@ -1,6 +1,6 @@
 # 👋 Lakshman Yadav Patakula
 
-**Software Engineer | Full Stack Developer**  
+**Full Stack Developer**  
 📧 lpatakul@asu.edu | [LinkedIn](https://www.linkedin.com/in/lakshman-yadav-patakula/) | 📞 623-284-4282
 
 ---
